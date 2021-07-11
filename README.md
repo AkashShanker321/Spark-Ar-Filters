@@ -1,5 +1,9 @@
 # Spark-Ar-Filters
-Spark AR Studio is an augmented reality platform for Mac &amp; Windows that allows you to some what easily create AR effects for mobile cameras.
+Stay Safe Mask AR filter.<br>
+This was my first experience with the Augmented reality Filters. Whenever I see many people are using some nice filters I also think about why should that all people use my filters also so I made this awesome filters.<br>
+
+# About this Filter
+This filter is about the a Stay safe mask in which when you close your mouth the mask comes and when you open the mouth the stay safe particles come across the screen.
 
 # How to Set-Up
 <b>Step 1 : </b> Download SPARK AR from https://sparkar.facebook.com/ar-studio/download/.<br>
