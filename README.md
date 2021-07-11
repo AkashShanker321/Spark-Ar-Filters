@@ -10,6 +10,8 @@ This filter is about the a Stay safe mask in which when you close your mouth the
 <b>Step 2 : </b> Install it and set it up.<br>
 <b>Step 3 : </b> Create a blank Project and then go to menu and open the project where you have downloaded it.<br>
 <b>Step 4 : </b> Now You will see the project.<br>
+<b>Step 5 : </b> Now You can edit this filter or use this.<br>
+
 
 # ScreenShots
 01. ![Capture](https://user-images.githubusercontent.com/76723803/125200003-7f0d3880-e286-11eb-9203-3712b83e1e09.PNG)<br>
